@@ -1,3 +1,3 @@
 # My_successful_repo
 
-Let's see if this works, hopefully.
+Let's see if this works, hopeful.
